@@ -1,9 +1,6 @@
 ## DB Backup Apps
 Automatisasi pem-backup-an db untuk seluruh sistem yg dikelola
 
-## Copyright
-Fully managed by IT Programmer ***PT Tiara Cipta Nirwana***
-
 ## Tutorial
 1. Inastal mysql / XAMPP
 2. Instal node.js
