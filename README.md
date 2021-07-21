@@ -14,4 +14,4 @@ Fully managed by IT Programmer PT Tiara Cipta Nirwana
 7. Perintah "node-server-uninstall.js" berfungsi untuk menghapus backup sistem pada services OS
 8. file "database.json" berfungsi untuk memasukan nama database
 9. file "app.js" berfungsi untuk mengatur waktu backup pada database sistem
-10. file "xz.exe" berfungsi untuk mengompress file ".sql"
+10. file "xz.exe" berfungsi untuk mengompress file **.sql**
