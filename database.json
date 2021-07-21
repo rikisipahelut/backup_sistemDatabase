@@ -1,0 +1,56 @@
+[
+	{
+		"host": "grahadewataholding.com",
+		"user": "u5981436_sitikon",
+		"password": "235711sitikon233141",
+		"database": "u5981436_sitikon"
+	},
+	{
+		"host": "grahadewataholding.com",
+		"user": "u5981436_simarti",
+		"password": "235711simarti233141",
+		"database": "u5981436_simarti"
+	},
+	{
+		"host": "grahadewataholding.com",
+		"user": "u5981436_sipupu",
+		"password": "235711sipupu233141",
+		"database": "u5981436_sipupu"
+	},
+	{
+		"host": "grahadewataholding.com",
+		"user": "u5981436_sisebaut",
+		"password": "235711sisebaut233141",
+		"database": "u5981436_sisebaut"
+	},
+	{
+		"host": "grahadewataholding.com",
+		"user": "u5981436_sipil",
+		"password": "235711sipil233141",
+		"database": "u5981436_sipil"
+	},
+	{
+		"host": "grahadewataholding.com",
+		"user": "u5981436_sititran",
+		"password": "235711sititran233141",
+		"database": "u5981436_sititran"
+	},
+	{
+		"host": "dewatabalielektrik.com",
+		"user": "u5944270_sinck",
+		"password": "235711sinck233141",
+		"database": "u5944270_sinck"
+	},
+	{
+		"host": "dewatabalielektrik.com",
+		"user": "u5944270_sitrading",
+		"password": "235711sitrading233141",
+		"database": "u5944270_sitrading"
+	},
+	{
+		"host": "dewatabalielektrik.com",
+		"user": "u5944270_sitoko",
+		"password": "235711sitoko233141",
+		"database": "u5944270_sitoko"
+	}
+]

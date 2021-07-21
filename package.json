@@ -1,0 +1,14 @@
+{
+  "name": "backups_apps",
+  "version": "1.0.0",
+  "description": "App backup database untuk semua sistem di PT Tiara Cipta Nirwana",
+  "main": "app.js",
+  "dependencies": {
+    "moment": "^2.29.1",
+    "node-windows": "^1.0.0-beta.5"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "author": "Pande Nengah Purnawan",
+  "license": "ISC"
+}
