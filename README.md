@@ -2,7 +2,7 @@
 Automatisasi pem-backup-an db untuk seluruh sistem yg dikelola
 
 ## Copyright
-Fully managed by IT Programmer **PT Tiara Cipta Nirwana**
+Fully managed by IT Programmer ***PT Tiara Cipta Nirwana***
 
 ## Tutorial
 1. Inastal mysql / XAMPP
